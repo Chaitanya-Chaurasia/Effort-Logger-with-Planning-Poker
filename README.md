@@ -103,6 +103,3 @@ Feel free to customize this README file according to your project's specific det
 ## Contributors:
 ### Caiden McGregor
 ### Chaitanya Chaurasia
-### Gavin Holtzapple
-### Harish Chaurasia
-### Neel Madhav Dogra
